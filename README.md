@@ -1,5 +1,5 @@
-Customer Retention Dataset is WA_Fn-UseC_-Telco-Customer-Churn.csv
+Customer Retention Dataset: WA_Fn-UseC_-Telco-Customer-Churn.csv
 
-Main code part is Exploratory Data Analysis (EDA) on Customer Retention Dataset.ipynb
+Main code part: Exploratory Data Analysis (EDA) on Customer Retention Dataset.ipynb
 
-Report part is AP21110010941 - Exploratory Data Analysis (EDA) on Customer Retention Dataset.pdf
+Report or Case Study part: AP21110010941 - Case_study_on_Customer_Retention_dataset__EDA_and_Feature_selection.pdf
